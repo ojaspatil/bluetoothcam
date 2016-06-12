@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Software\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\BluetoothCamStream\Application\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_13c2593c2b9486198fc5064a722e923e7d99754f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\AndroidStudioProjects\BluetoothCamStream\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\BluetoothCamStream\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_183f5fe864a606ca5d69c70a089eedb5efcc5a93.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\AndroidStudioProjects\BluetoothCamStream\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\BluetoothCamStream\Application\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-23.3.0_8c5d21e1e8f4d642a17d1fc55ddb71594b1a8660.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\AndroidStudioProjects\BluetoothCamStream\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\BluetoothCamStream\Application\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_a992c6dff600f2204b5a7f85c50699631785e227.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\AndroidStudioProjects\BluetoothCamStream\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\Admin\AndroidStudioProjects\BluetoothCamStream\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.3.0_f08bce405e96dafbd7d99024650ec76a444ea4b1.jar" />
+    </item>
+
+</items>
